@@ -80,5 +80,4 @@ let arr = [1,2,3, false, true, "Shubh"];
 // subtract()
 // add(2,5,subtract)
 
-// let arr1 = [50,10000,...arr]
-// console.log(...arr1);
+
