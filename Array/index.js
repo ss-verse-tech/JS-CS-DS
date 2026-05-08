@@ -82,7 +82,3 @@ let arr = [1,2,3, false, true, "Shubh"];
 
 // let arr1 = [50,10000,...arr]
 // console.log(...arr1);
-
-(function (){
-    console.log("I am IIFE");
-})();
